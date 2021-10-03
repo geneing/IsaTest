@@ -1,0 +1,4 @@
+[debug] [isatest-test] Classpath dependencies List()
+[debug] [isatest-test] Dependencies from configurations List(isatest)
+[debug] Bloop wrote the configuration of project 'isatest-test' to '/home/eingerman/Projects/DeepMath/IsaTest/.bloop/isatest-test.json'
+[success] Generated .bloop/isatest-test.json
