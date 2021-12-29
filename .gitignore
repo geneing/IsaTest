@@ -12,4 +12,5 @@ target/
 *.ipr
 *.iws
 *.log
+.history3
 
