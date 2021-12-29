@@ -1,5 +1,0 @@
-# ~/.gitignore
-.metals/
-.bloop/
-.ammonite/
-metals.sbt

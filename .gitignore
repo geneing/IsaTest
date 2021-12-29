@@ -6,3 +6,10 @@ metals.sbt
 lib/*.jar
 .idea/
 .bsp/
+.history/
+project/
+target/
+*.ipr
+*.iws
+*.log
+
